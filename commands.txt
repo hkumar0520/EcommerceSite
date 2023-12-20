@@ -5,4 +5,8 @@ npm i express mongoose dotenv
 
 npm i -g nodemon
 
+// validator to validate email field
+// nodemailer - forget password, otp or resend mail automatically
+npm i bcryptjs jsonwebtoken validator nodemailer cookie-parser body-parser
+
 
